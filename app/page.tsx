@@ -156,6 +156,7 @@ export default function Home() {
           style={{
             padding: "10px 20px",
             background: "#00ff88",
+ color: "#000",
             border: "none",
             borderRadius: "8px",
             cursor: "pointer",
