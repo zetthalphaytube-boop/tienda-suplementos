@@ -142,7 +142,7 @@ export default function Home() {
 
       {/* LOGO */}
       <div style={{ textAlign: "center", marginBottom: "10px" }}>
-        <Image src="/logo.png" alt="Logo" width={100} height={100} />
+        <Image src="/logo.png" alt="Logo" width={200} height={200} />
       </div>
 
       <h1 style={{ textAlign: "center", fontSize: "42px" }}>
