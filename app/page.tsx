@@ -155,7 +155,7 @@ export default function Home() {
           onClick={() => setGoalOpen(!goalOpen)}
           style={{
             padding: "10px 20px",
-            background: "#facc15",
+            background: "red",
             color: "000",
             border: "none",
             borderRadius: "8px",
